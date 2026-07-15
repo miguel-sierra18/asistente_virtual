@@ -1,0 +1,18 @@
+# Entorno y secretos
+.env
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Índice FAISS generado (se reconstruye automáticamente)
+data/faiss_index/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Sistema
+.DS_Store
