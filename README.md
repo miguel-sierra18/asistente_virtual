@@ -217,9 +217,15 @@ Este repositorio incluye dos guías completas:
 
 ---
 
+## Pruebas
+![Texto alternativo](<img width="1918" height="967" alt="deploy_streamlit" src="https://github.com/user-attachments/assets/1d8a6b8b-f921-4926-8736-9d62e0ce4f45" />
+)
+
+---
+
 ## Enlace del proyecto
 
-[Streamlit](https://asistentevirtual-fmxyzqnjaevqzdjqxqftq4.streamlit.app/)
+[Deploy en streamlit](https://asistentevirtual-fmxyzqnjaevqzdjqxqftq4.streamlit.app/)
 
 ---
 
