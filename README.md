@@ -217,6 +217,12 @@ Este repositorio incluye dos guías completas:
 
 ---
 
+## Enlace del proyecto
+
+[Streamlit](https://asistentevirtual-fmxyzqnjaevqzdjqxqftq4.streamlit.app/)
+
+---
+
 ## 📁 Estructura del proyecto
 
 ```
