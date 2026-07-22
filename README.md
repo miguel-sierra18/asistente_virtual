@@ -218,7 +218,7 @@ Este repositorio incluye dos guías completas:
 ---
 
 ## Pruebas
-![Texto alternativo](desplegar_streamlit.png)
+![Texto alternativo](deploy_streamlit.png)
 
 ---
 
