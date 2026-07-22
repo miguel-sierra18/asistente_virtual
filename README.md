@@ -217,8 +217,11 @@ Este repositorio incluye dos guías completas:
 
 ---
 
-## Pruebas
+## Capturas De Pantalla
+### Deploy
 ![Texto alternativo](deploy_streamlit.png)
+### Prueba
+![Texto alternativo](prueba.png)
 
 ---
 
